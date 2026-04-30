@@ -8,11 +8,21 @@
     {
       "name": "superpowers",
       "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques",
-      "version": "5.0.7",
+      "version": "5.0.7+dgl.1",
       "source": "./",
       "author": {
         "name": "daniel-gll"
       }
+    },
+    {
+      "name": "sp",
+      "description": "Short alias for the Superpowers core skills library",
+      "version": "5.0.7+dgl.1",
+      "source": "./",
+      "author": {
+        "name": "daniel-gll"
+      },
+      "strict": false
     }
   ]
 }
